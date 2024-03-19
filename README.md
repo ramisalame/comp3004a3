@@ -1,3 +1,6 @@
+Comp 3004 - Part 1 of Assignment 3 
+Rami Salame
+
 Required tools:
 PostgresSQL
 pip install psycopg2
@@ -11,3 +14,5 @@ Steps to run program:
 3. Start the postgres python script
 4. Modify the username and password if required to connect to the a3 DB in postgres (Password hidden in video for privacy)
 5. Run the python script and review the modified databasee
+
+Video Demo: https://youtu.be/in2-wGFu0BU
