@@ -2,9 +2,10 @@ Comp 3004 - Part 1 of Assignment 3
 Rami Salame
 
 Required tools:
-PostgresSQL
-pip install psycopg2
-Python
+- PostgresSQL
+
+- pip install psycopg2
+- Python
 
 
 Steps to run program:
