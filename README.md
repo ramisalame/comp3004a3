@@ -1,4 +1,4 @@
-Comp 3004 - Part 1 of Assignment 3 
+Comp 3005 - Part 1 of Assignment 3 
 Rami Salame
 
 Required tools:
